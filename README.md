@@ -3,6 +3,7 @@ gitlab-cli
 
 gitlab-cli is a command line utility created in JavaScript. Inspired from [hub](https://github.com/github/hub). It tries to provide commands which makes working with gitlab from the command line easier. 
 
+
 Creating a merge request with gitlab-cli is as simple as
 
 ```sh
@@ -14,7 +15,7 @@ $ lab merge-request
 Install it using npm
 
 ```sh
-$ npm install git-lab-cli -g
+$ npm install @mgtv/git-lab-cli -g
 ```
 
 ## Usage
